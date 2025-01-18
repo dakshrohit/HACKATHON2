@@ -383,7 +383,7 @@ body.dark-mode .hero-button:hover {
 
 /* Hero Section Container with Gradient Animation */
 .hero-section {
-  width: 100%;
+  width: 1550px;
   height: 100vh;
   background: linear-gradient(135deg, #e9f1f7, #ffffff);
   display: flex;
